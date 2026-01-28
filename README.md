@@ -19,6 +19,12 @@ understanding customer churn behavior using a structured approach.
 - Correlation analysis
 - Business insight generation
 
+- ## Week 4 – Feature Engineering
+- Derived new features related to customer behavior
+- Encoded categorical variables
+- Scaled important numerical features
+- Prepared data for future modeling
+
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn
 
